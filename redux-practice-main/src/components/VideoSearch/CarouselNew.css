@@ -1,0 +1,35 @@
+.video-clip-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 25px;
+}
+
+.video-clip-container  input {
+    float: right;
+    margin: 10px 0px;
+}
+
+.video-clip-container-checkbox {
+    display: flex;
+    justify-content: end;
+}
+
+.carousel-button-group {
+    position: absolute;   
+}
+
+.react-multiple-carousel__arrow {
+    display: none;
+}
+
+.button-disabled {
+    display: none;
+}
+
+.react-multi-carousel-track {
+    z-index: 5;
+}
+
+.nav-buttons {
+    z-index: 5;
+}
